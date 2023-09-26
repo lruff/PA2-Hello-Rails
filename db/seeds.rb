@@ -8,6 +8,8 @@
 
 # Seed the RottenPotatoes DB with some movies.
 more_movies = [
+  {:title => 'Everything Everywhere All at Once', :rating => 'R',
+    :release_date => '11-Mar-2022'},  
   {:title => 'My Neighbor Totoro', :rating => 'G',
     :release_date => '16-Apr-1988'},
   {:title => 'Green Book', :rating => 'PG-13',
