@@ -8,7 +8,7 @@
 
 # Seed the RottenPotatoes DB with some movies.
 more_movies = [
-  {:title => 'Everything Everywhere All at Once', :rating => 'R',
+  {:title => 'Everything Everywhere All at Once', :rating => 'R', :description => 'An amazing movie that you should know absolutely nothing going into and just trust that it will be one of the most imaginiative, action packed, emotional, and well shot movies you have ever seen in your life',
     :release_date => '11-Mar-2022'},  
   {:title => 'My Neighbor Totoro', :rating => 'G',
     :release_date => '16-Apr-1988'},
